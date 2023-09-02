@@ -1,0 +1,59 @@
+/* @import '@fontsource/fira-mono'; */
+:root {
+    --font-body: Arial, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
+        Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --font-mono: 'Fira Mono', monospace;
+    font-family: var(--font-body);
+
+    font-size: 16px;
+
+
+    /* --base_30-white: #D9E0EE;
+    --base_30-darker_black: #191828;
+    --base_30-black: #1E1D2D;
+    --base_30-black2: #252434;
+    --base_30-one_bg: #2d2c3c;
+    --base_30-one_bg2: #363545;
+    --base_30-one_bg3: #3e3d4d;
+    --base_30-grey: #474656;
+    --base_30-grey_fg: #4e4d5d;
+    --base_30-grey_fg2: #555464;
+    --base_30-light_grey: #605f6f;
+    --base_30-red: #F38BA8;
+    --base_30-baby_pink: #ffa5c3;
+    --base_30-pink: #F5C2E7;
+    --base_30-line: #383747;
+    --base_30-green: #ABE9B3;
+    --base_30-vibrant_green: #b6f4be;
+    --base_30-nord_blue: #8bc2f0;
+    --base_30-blue: #89B4FA;
+    --base_30-yellow: #FAE3B0;
+    --base_30-sun: #ffe9b6;
+    --base_30-purple: #d0a9e5;
+    --base_30-dark_purple: #c7a0dc;
+    --base_30-teal: #B5E8E0;
+    --base_30-orange: #F8BD96;
+    --base_30-cyan: #89DCEB;
+    --base_30-statusline_bg: #232232;
+    --base_30-lightbg: #2f2e3e;
+    --base_30-pmenu_bg: #ABE9B3;
+    --base_30-folder_bg: #89B4FA;
+    --base_30-lavender: #c7d1ff;
+
+    --base_16-base00: #1E1D2D;
+    --base_16-base01: #282737;
+    --base_16-base02: #2f2e3e;
+    --base_16-base03: #383747;
+    --base_16-base04: #414050;
+    --base_16-base05: #bfc6d4;
+    --base_16-base06: #ccd3e1;
+    --base_16-base07: #D9E0EE;
+    --base_16-base08: #F38BA8;
+    --base_16-base09: #F8BD96;
+    --base_16-base0A: #FAE3B0;
+    --base_16-base0B: #ABE9B3;
+    --base_16-base0C: #89DCEB;
+    --base_16-base0D: #89B4FA;
+    --base_16-base0E: #CBA6F7;
+    --base_16-base0F: #F38BA8; */
+}
